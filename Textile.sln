@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29911.98
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Textile", "Textile\Textile.csproj", "{AFC58756-7FB5-47F2-8E54-91828E92AE6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Textile", "Textile\Textile.csproj", "{AFC58756-7FB5-47F2-8E54-91828E92AE6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsageTest", "UsageTest\UsageTest.csproj", "{361089BA-97E6-49BC-A09A-FB89DA9A5F74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Textile.Test", "Textile.Test\Textile.Test.csproj", "{3A8B4C7E-1826-471F-A32A-228225804935}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{AFC58756-7FB5-47F2-8E54-91828E92AE6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFC58756-7FB5-47F2-8E54-91828E92AE6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFC58756-7FB5-47F2-8E54-91828E92AE6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{361089BA-97E6-49BC-A09A-FB89DA9A5F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361089BA-97E6-49BC-A09A-FB89DA9A5F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361089BA-97E6-49BC-A09A-FB89DA9A5F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361089BA-97E6-49BC-A09A-FB89DA9A5F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8B4C7E-1826-471F-A32A-228225804935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8B4C7E-1826-471F-A32A-228225804935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8B4C7E-1826-471F-A32A-228225804935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8B4C7E-1826-471F-A32A-228225804935}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
