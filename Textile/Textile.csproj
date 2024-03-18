@@ -1,7 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
     <PropertyGroup>
-        <TargetFrameworks>netstandard2.1;net4</TargetFrameworks>
-        <Description>DotNetProjects.Textile.Net</Description>
+		<TargetFrameworks>netstandard2.0;netstandard2.1;net4;</TargetFrameworks>
+
+		<Description>DotNetProjects.Textile.Net</Description>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <PackageId>DotNetProjects.Textile.Net</PackageId>
         <Authors>DotNetProjects</Authors>
